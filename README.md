@@ -9,5 +9,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything, I'm happy to help 
 - 📫 How to reach me: kingtoluwalope@gmail.com
 - 📄 Check my resume here --> My resume
-- ⚡ Fun fact: ...
+- ✴️ Languages : Flutter(Dart), Javascript, C++, Python
+- ⚡ Quote: Keep pushing 🍷
 
