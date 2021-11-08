@@ -6,7 +6,7 @@ Skills: Flutter / Dart / Javascript / NodeJS / Firebase / MongoDB /  Python
 
 - 👯 I’m looking to collaborate
 - 💬 Ask me about flutter
-- 
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
