@@ -1,4 +1,8 @@
-### Hi there 👋
+### Yo 👋
+
+I'm Toluwalope, I love building Mobile Applcations with Flutter, Backend with NodeJS
+
+Skills: Flutter / Dart / Javascript / NodeJS / Firebase / MongoDB /  Python
 
 Here are some ideas to get you started:
 
