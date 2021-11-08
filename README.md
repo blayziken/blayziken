@@ -11,11 +11,7 @@ Skills: Flutter / Dart / Javascript / NodeJS / Firebase / MongoDB /  Python
 - 👯 I’m looking to collaborate
 - 💬 Ask me about Flutter
 
-Reach me via kingtoluwalope@gmail.com / www.instagram.com/blaze.jt/
-Here are some ideas to get you started:
+Reach me via https://linktr.ee/blayziken
 
-
-- 📫 How to reach me: kingtoluwalope@gmail.com
-
-- ⚡ Quote: Keep pushing 🍷
+⚡ Quote: Keep pushing 🍷
 
