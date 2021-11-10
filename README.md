@@ -15,3 +15,5 @@ Reach me via https://linktr.ee/blayziken
 
 ⚡ Quote: Keep pushing 🍷
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=blayziken &show_icons=true&theme=tokyonight)
+
