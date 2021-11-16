@@ -5,7 +5,7 @@
 I'm Toluwalope, I love building Mobile Applications with Flutter, Backend with NodeJS
 
 
-Skills: Flutter / Dart / Javascript / NodeJS / Firebase / MongoDB /  Python / CorelDraw / Adobe Illustrator & Photoshop
+Skills: Flutter / Dart / Javascript / NodeJS / Firebase / MongoDB /  Python
 
 
 - 👯 I’m looking to collaborate
