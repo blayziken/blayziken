@@ -2,7 +2,7 @@
 
 
 
-I'm Toluwalope, I love building Mobile Applications with Flutter, Backend with NodeJS
+I'm Toluwalope, I love building Mobile Applications with Flutter, Backend with NodeJS. Currently learning Solidity and DApps
 
 
 Skills: Flutter / Dart / Javascript / NodeJS / Firebase / MongoDB /  Python
