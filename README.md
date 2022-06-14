@@ -2,14 +2,14 @@
 
 
 
-I'm Toluwalope, I love building Mobile Applications with Flutter, Backend with NodeJS. Currently learning Solidity and DApps
+I'm Toluwalope, I love building Mobile Applications with Flutter, Backend with NodeJS. Currently learning ReactJS
 
 
 Skills: Flutter / Dart / Javascript / NodeJS / Firebase / MongoDB /  Python
 
 
 - 👯 I’m looking to collaborate
-- 💬 Ask me about Flutter
+- 💬 Ask me about Flutter, Node or React
 
 Reach me via https://linktr.ee/blayziken
 
