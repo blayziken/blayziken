@@ -2,7 +2,7 @@
 
 
 
-I'm Toluwalope, I love building Mobile Applications with Flutter, Backend with NodeJS. Currently learning ReactJS
+I'm Toluwalope, I love building Mobile Applications with Flutter, and backend systems with NodeJS.
 
 
 Skills: Flutter / Dart / Javascript / NodeJS / ReactJS / Firebase / MongoDB /  Python
